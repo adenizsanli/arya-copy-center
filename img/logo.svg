@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 64" role="img" aria-label="Arya Copy Center">
+  <!-- İşaret: CMY renk katmanlarından oluşan "A" -->
+  <g transform="translate(2 4)">
+    <path d="M28 0 L56 56 H44 L28 22 Z" fill="#00a0e3"/>
+    <path d="M28 0 L0 56 H12 L28 22 Z" fill="#e5007e"/>
+    <rect x="13" y="36" width="30" height="9" fill="#ffcc00"/>
+  </g>
+  <text x="70" y="38" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-weight="800" font-size="34" letter-spacing="2" fill="#1a1a2e">ARYA</text>
+  <text x="71" y="57" font-family="Inter, 'Helvetica Neue', Arial, sans-serif" font-weight="600" font-size="13" letter-spacing="5.2" fill="#e5007e">COPY CENTER</text>
+</svg>
