@@ -122,3 +122,6 @@ a { color: inherit; }
   .contact { grid-template-columns: 1fr; }
   .section { padding: 56px 0; }
 }
+
+/* Hizmet fotoğrafı */
+.detail-img { width: 100%; height: auto; aspect-ratio: 3 / 2; object-fit: cover; border-radius: var(--radius); margin-bottom: 28px; display: block; }
