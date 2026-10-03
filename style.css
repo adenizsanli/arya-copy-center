@@ -137,4 +137,3 @@ a { color: inherit; }
 .detail-fig { margin: 0 0 28px; }
 .detail-fig .detail-img { margin-bottom: 8px; }
 .detail-fig figcaption { font-size: .8rem; color: var(--muted); }
-.hero-strips .strips span:nth-child(1) { background-color: #fff; background-repeat: no-repeat; background-size: 80% auto; background-position: 62% center; }
